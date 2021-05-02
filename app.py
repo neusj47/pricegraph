@@ -2,7 +2,7 @@
 
 # Ticker별 종가 추이를 확인하는 함수
 # 날짜 입력, 관심 Ticker를 입력하여 종가 추이를 확인합니다.
-# 반응형 그래프를 만들기 위해 Callback 함수
+# 반응형 그래프를 만들기 위해 Callback 함수를 정의합니다.
 
 import pandas_datareader.data as web
 import datetime
